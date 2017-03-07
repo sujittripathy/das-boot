@@ -8,7 +8,7 @@ public class HomeController {
 
 	@RequestMapping("/")
 	public String home(){
-		return "hello from spring boot!";
+		return "hello from spring boot! added new";
 	}
 	
 }
